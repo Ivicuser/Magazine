@@ -1,2 +1,4 @@
 # Magazine
-Magazine, online sale website. 
+==========
+This is website for online sale. 
+
