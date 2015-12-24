@@ -1,0 +1,43 @@
+        
+        1. Dodati na staff prikaz vijesti i izabrati pravi dizain za taj prikaz;
+				-- dodati pri prikazu profilne slike zoomooz.js, zumiranje profilne slike  prilikom pregleda  --
+					-----------------------------------------------------------------------------------------
+					
+        2. Popraviti nav bar(omoguciti da se nakon klika na kategoriju prikazu najnovije vijesti iz te kategorije).
+        3. 
+
+
+
+
+Android:
+
+   - lite facebook
+   - Jarvis
+   - TDI Radio
+   - Smart tool
+   - DU Battery Saver
+   - Slack
+   - Team viewer
+   - Badoo
+    Programming Hub-------
+   - Instagram
+   - Google Drive
+   - Play games
+   - Square InstaPic
+   - Insta Square 
+    Foffowers +---------
+   - Viber
+   - Power Plant...
+   - Shark
+   - Fing
+   - WPS Connect 
+   - AndSMB
+    AndFTP-------
+   - FtpCafe
+   -VNC Viewer
+    
+
+
+
+ 
+          
