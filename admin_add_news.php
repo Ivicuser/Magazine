@@ -1,5 +1,5 @@
 <?php
-//require('edit_user.php');
+
 require_once('includes/Aload.php');
 include('includes/header_for_news_feed_1.php');
 confirm_logged_in();
