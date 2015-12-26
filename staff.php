@@ -17,10 +17,9 @@ if(isset($_GET['id'])){
     position: relative;
     width:100%;
     margin-left:0%;
-    border-radius: 20px;
-">
+    border-radius: 20px; ">
 
-<div class="show_news" style="position: relative;">
+<div class="show_news" style="position: relative; ">
 <div class="title"><h2><?php echo $old_news['title'];?></h2>
 <div class="button_cancel">  
 <a href="staff.php"  class="glyphicon glyphicon-share-alt" style="
