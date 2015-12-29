@@ -355,6 +355,25 @@ function get_admin_user($user_id){
                 return $menu;
         }
         
+          function get_all_category_order_by_id_3(){
+            
+       	$menu='';
+    
+          $user_id=$_GET['id'];
+            $user=get_user($user_id);
+		$all_categories=get_all_categories();
+                    while($category=mysqli_fetch_assoc($all_categories)){	
+			$all_news=get_news_for_category($category['id'],false);//vrati sve vijesti za trenutnu kategoriju
+                            if($all_news){//ako ima vijesti u kategoriji krecemo podmeni za njih
+
+				$menu.='<a input type="submit" class="category_view btn" href="admin_create_news.php?id='.$user_id."-".$category['id'].'">'.$category['title'].'<br></a>';
+				
+                            }
+        }
+           
+                return $menu;
+        }
+        
         
         function all_categories(){
             
