@@ -1,7 +1,7 @@
 
 <?php
 require_once("includes/Aload.php");
-include("admin_functions/create_admin_header.php");
+include("admin_functions/create_admin_news_header.php");
 ?>
 
 
